@@ -1,0 +1,30 @@
+{
+    "assets": {
+        "logoPrimary": "https://aryasa.net/fuzzy-couscous/assets/gsg/logoPrimary.png",
+        "backgroundPrimary": "https://aryasa.net/fuzzy-couscous/assets/gsg/backgroundPrimary.jpg"
+    },
+    "colors": {
+        "primary": "#50A8FF",
+        "secondary": "#5AEBDD",
+        "primaryText": "rgba(255, 255, 255, 0.8)",
+        "primaryTextHighlight": "rgba(255, 255, 255, 1)",
+        "secondaryText": "rgba(0, 0, 0, 0.8)",
+        "secondaryTextHighlight": "rgba(0, 0, 0, 1)",
+
+        "background": "#111827",
+        "overlay": "rgba(0, 0, 0, 0.8)",
+        "surface": "rgba(255, 255, 255, 0.06)",
+        "surfaceLight": "rgba(255, 255, 255, 0.8)",
+        "surfaceDisabled": "#414651",
+
+        "line": "rgba(255, 255, 255, 0.2)",
+
+        "error": "#CA5F62",
+        "disable": "#737373",
+
+        "positive": "#4ADE80",
+        "negative": "#F87171",
+
+        "transparent": "rgba(255, 255, 255, 0)"
+    }
+}
